@@ -80,5 +80,3 @@ The model successfully predicts health insurance premiums based on customer info
 
 ---
 
-## 👨‍💻 Author
-**Health Insurance Premium Prediction using Machine Learning**
