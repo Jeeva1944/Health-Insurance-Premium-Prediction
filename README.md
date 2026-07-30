@@ -1,12 +1,12 @@
 
-# 🏥 Health Insurance Premium Prediction
+#  Health Insurance Premium Prediction
 
-## 📌 Project Overview
+##  Project Overview
 This project predicts health insurance premiums using Machine Learning. It analyzes customer information such as age, gender, BMI, smoking status, number of children, and region to estimate insurance charges accurately. The goal is to support fair premium pricing and improve risk assessment for insurance providers.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Predict health insurance charges using Linear Regression.
 - Identify the factors that influence insurance premiums.
 - Evaluate the model using performance metrics.
@@ -14,7 +14,7 @@ This project predicts health insurance premiums using Machine Learning. It analy
 
 ---
 
-## 📂 Dataset
+##  Dataset
 The dataset contains the following features:
 
 - Age
@@ -27,7 +27,7 @@ The dataset contains the following features:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -38,7 +38,7 @@ The dataset contains the following features:
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 The dataset is analyzed to:
 - Understand feature distributions.
 - Detect missing values and outliers.
@@ -47,7 +47,7 @@ The dataset is analyzed to:
 
 ---
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 Three Linear Regression models are developed:
 
 1. Simple Linear Regression (Age)
@@ -58,7 +58,7 @@ Categorical variables are encoded before training, and the dataset is split into
 
 ---
 
-## 📊 Model Evaluation
+##  Model Evaluation
 The model is evaluated using:
 - Mean Squared Error (MSE)
 - R-squared (R² Score)
@@ -67,12 +67,12 @@ These metrics measure prediction accuracy and model performance.
 
 ---
 
-## 📈 Results
+##  Results
 The model successfully predicts health insurance premiums based on customer information. Features such as age, BMI, and smoking status have a significant impact on insurance charges. The model can assist insurance companies in pricing policies more accurately.
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 - Apply advanced regression algorithms.
 - Perform hyperparameter tuning.
 - Build a web application for premium prediction.
